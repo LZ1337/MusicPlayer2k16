@@ -1,0 +1,19 @@
+c:\users\lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\Music Player 2k16 Independed.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\Music Player 2k16 Independed.exe
+c:\users\lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\Music Player 2k16 Independed.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\obj\Debug\Music Player 2k16 Independed.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\obj\Debug\Music_Player_2k16_Independed.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\obj\Debug\Music Player 2k16 Independed.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\obj\Debug\Music Player 2k16 Independed.exe
+c:\users\lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\obj\Debug\Music Player 2k16 Independed.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\obj\Debug\Music_Player_2k16_Independed.MainForm.resources
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\obj\Debug\Music_Player_2k16_Independed.Settings.resources
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\obj\Debug\Music Player 2k16 Independed.csproj.ResolveComReference.cache
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\NAudio.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\NAudio.xml
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\Id3Lib.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\Id3Lib.pdb
+C:\Users\Lucas\documents\visual studio 2015\Projects\Music Player 2k16 Independed\Music Player 2k16 Independed\bin\Debug\Id3Lib.xml
